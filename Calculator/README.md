@@ -27,6 +27,7 @@ Enter first number:
 Enter second number:
 5
 Enter operation (+, -, *, /, %, ^):
++
 ```
 4. The program will output the result of the arithmetic operation.
 ## Supported Operations
@@ -43,6 +44,7 @@ Enter first number:
 Enter second number:
 5
 Enter operation (+, -, *, /, %, ^):
++
 ```
 ## Output:
 ```
