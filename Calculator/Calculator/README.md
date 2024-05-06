@@ -44,6 +44,7 @@ Enter first number:
 Enter second number:
 5
 Enter operation (+, -, *, /, %, ^):
++
 ```
 ## Output:
 ```
